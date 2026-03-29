@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=njT5ECuwCTo
+https://github.com/piyushsachdeva/CKA-2024
+
+
 git initilize in /Users/manish/Documents/ManishDoc/ManishVault
 
 manish@MacBookPro ManishVault % git init
