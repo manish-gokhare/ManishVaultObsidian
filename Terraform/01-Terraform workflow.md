@@ -19,6 +19,7 @@ Terraform has a simple core workflow: write configuration, then run `init`, `val
 
 - `terraform init` is run once per new project (or when you change providers/modules) to initialize the working directory. It downloads provider plugins (like AWS, Azure, GCP) and sets up the backend for state if configured. 
 - Without a successful `init`, the other commands will fail because Terraform does not yet know which providers and modules to use.
+- Plugin will be downloaded in .terraform folder in the project.
 
 ## terraform validate
 

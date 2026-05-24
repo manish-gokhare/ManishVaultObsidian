@@ -11,4 +11,8 @@ brew upgrade awscli
 
  brew upgrade kubectl
 
+# aws configure
+
+aws configure
+
 ```
