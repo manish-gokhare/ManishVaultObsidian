@@ -175,16 +175,3 @@ module "network" {
 }
 ```
 
-Modules help you structure large configurations, share patterns across projects, and keep code DRY. [7]
-
-Sources
-[1] Terraform Dynamic Blocks: DRY Principle & Examples https://spacelift.io/blog/terraform-dynamic-blocks
-[2] Dynamic Blocks - Configuration Language | Terraform https://developer.hashicorp.com/terraform/language/expressions/dynamic-blocks
-[3] Understanding Terraform Dynamic Blocks with Examples https://kodekloud.com/blog/terraform-dynamic-block/
-[4] Understanding the Terraform Block: The Configuration Foundation https://scalr.com/learning-center/understanding-the-terraform-block-the-configuration-foundation/
-[5] Overview - Configuration Language | Terraform https://developer.hashicorp.com/terraform/language
-[6] Style Guide - Configuration Language | Terraform https://developer.hashicorp.com/terraform/language/style
-[7] Structuring Terraform and OpenTofu https://scalr.com/guides/platform-engineers-guide-to-structuring-terraform-and-opentofu
-[8] Best practices for code base structure and organization https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/structure.html
-[9] Organizing Terraform Code for Scalability and Maintainability https://terrateam.io/blog/terraform-code-organization
-[10] Structure of Terraform Configuration Language and its Syntax https://www.linkedin.com/pulse/terraform-easy-2-structure-configuration-language-its-srivastava-9wwvc
